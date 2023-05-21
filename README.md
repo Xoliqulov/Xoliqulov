@@ -1,4 +1,4 @@
-<h1 align="center">Assalomu alaykum 👋, men Xol1qulov</h1>
+<h1 align="center">Assalomu alaykum 👋, men Xol1qulov </h1>
 <h3 align="center">Men O'zbekistonlik python dasturchisiman</h3>
 
 - 📫 Men bilan telegram orqali qanday bog'lanish mumkin **https:/ /t.me/bebaxo_okez**
