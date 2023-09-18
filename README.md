@@ -1,7 +1,7 @@
  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisher
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is O'rolbek
 ===============================================================================================================================
 
 Web Developer
@@ -10,9 +10,8 @@ Web Developer
 python back end developer
 
 * 🌍  I'm based in Uzbekistan
-* ✉️  You can contact me at [yevgenevicalisher@gmail.com](mailto:yevgenevicalisher@gmail.com)
+* ✉️  You can contact me at [xoliqulov116@gmail.com](mailto:xoliqulov116@gmail.com)
 * 🧠  I'm learning Python
-* ⚡  I study at PDP Academy
 
  [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 
@@ -37,10 +36,3 @@ python back end developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yevgenevic&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgenevic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yevgenevic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=yevgenevic&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
