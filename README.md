@@ -16,10 +16,3 @@ python back end developer
  [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemaker2015&show_icons=true&theme=radical)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Xoliqulov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yevgenevic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xoliqulov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
