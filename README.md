@@ -15,4 +15,3 @@ python back end developer
 
  [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemaker2015&show_icons=true&theme=radical)
