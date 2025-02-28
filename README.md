@@ -34,15 +34,6 @@
 </div>
  
 
----
-
-## 🏆 GitHub Trophies  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-bg=true&no-frame=true&margin-w=15" />
-</div>  
-
----
 
 ## 🤝 Let's Connect  
 
