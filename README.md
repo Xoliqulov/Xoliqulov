@@ -27,12 +27,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 GitHub Trophies  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%" />
-</div>  
+  <img src="https://github-profile-trophy.vercel.app/?username=Xoliqulov&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" />
+</div>
+ 
 
 ---
 
